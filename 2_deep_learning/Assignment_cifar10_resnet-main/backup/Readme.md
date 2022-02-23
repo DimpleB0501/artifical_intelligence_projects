@@ -1,0 +1,2 @@
+- Saving inital implementation for ResNet18 for future use. 
+- ResNet50 implementation
