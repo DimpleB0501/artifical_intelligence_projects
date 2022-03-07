@@ -6,10 +6,14 @@ conda env create -f pytorch_course_env_ubuntu.yml
 ```
 
 ### Activating the enviornment
+```
 conda activate pytorchenv
+```
 
 ### Deactivate enviornment
+```
 conda deactivate
+```
 
 ## Installing without yml file
 Instead of using the environment file, you can also manually create the environment and subsequently install the necessary libraries.
