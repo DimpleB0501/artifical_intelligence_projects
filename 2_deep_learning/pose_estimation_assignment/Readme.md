@@ -25,7 +25,7 @@ The landmarks are:
 
 |Output pose estimation video|
 |:------------:|
-|![Output video](./images/simulator.gif)|
+|![Output video](./images/task2.gif)|
 |[Youtube Link](https://www.youtube.com/watch?v=IKSU_8M1veY)|
 
 
