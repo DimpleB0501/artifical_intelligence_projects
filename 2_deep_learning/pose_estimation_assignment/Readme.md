@@ -1,6 +1,6 @@
 # Task 1
 Task  1.1 The task  is to get all the landmarks on the body from the image and save the image as result [image format/ .jpg/.png/.jpeg format]. 
-|Output Image|
+|Human pose estimation output|
 |:------------:|
 |![Output Image](./images/output_image.png)|
 
