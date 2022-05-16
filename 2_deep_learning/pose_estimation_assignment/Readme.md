@@ -4,8 +4,7 @@
 |:------------:|
 |![Output Image](./images/output_image.png)|
 
-### Task 1.2
-Elaborate on Technology  used. For example, the packages downloaded and used. (Max 150 words)
+### Task 1.2 Elaborate on Technology  used. 
 I used **Keypoint RCNN deep learning model with a ResNet-50 base architecture** available in pytorch. <br/>
 This model has been pre-trained on the COCO Keypoint dataset.<br/>
 It outputs the keypoints for 17 human parts and body joints. <br/>
