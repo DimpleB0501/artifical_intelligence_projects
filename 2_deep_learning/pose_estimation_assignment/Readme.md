@@ -28,5 +28,11 @@ The landmarks are:
 |![Output video](./images/task2.gif)|
 |[Youtube Link](https://www.youtube.com/watch?v=IKSU_8M1veY)|
 
-
+**Note**: Task 2 is implemented as a python file. To run the file<br/>
+`cd ~/pose_estimation_assignment/pose_estimation/src`<br/>
+ `python3 task2_keypoint_rcnn_videos.py `
+ 
 # Task 3
+Illustrate the process of creating a pose classification model with steps starting from ML package choice (tensorflow/pytorch) to testing the model.
+What method can be used as a feedback control loop in pose classification if a human pose estimation model is used to get the landmarks ? In simple words, can landmarks of body parts be used to validate the result from the pose classifier?
+
