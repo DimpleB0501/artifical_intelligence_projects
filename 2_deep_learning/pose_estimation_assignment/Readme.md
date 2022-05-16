@@ -1,14 +1,33 @@
 # Task 1
-Task  1.1 The task  is to get all the landmarks on the body from the image and save the image as result [image format/ .jpg/.png/.jpeg format]. 
+### Task  1.1 The task  is to get all the landmarks on the body from the image . 
 |Human pose estimation output|
 |:------------:|
 |![Output Image](./images/output_image.png)|
 
+### Task 1.2
+Elaborate on Technology  used. For example, the packages downloaded and used. (Max 150 words)
+I used **Keypoint RCNN deep learning model with a ResNet-50 base architecture** available in pytorch. <br/>
+This model has been pre-trained on the COCO Keypoint dataset.<br/>
+It outputs the keypoints for 17 human parts and body joints. <br/>
+They are: ‘nose’,  ‘left_eye’, ‘right_eye’, ‘left_ear’, ‘right_ear’, ‘left_shoulder’, ‘right_shoulder’, ‘left_elbow’, ‘right_elbow’, ‘left_wrist’, ‘right_wrist’, ‘left_hip’, ‘right_hip’, ‘left_knee’, ‘right_knee’, ‘left_ankle’, ‘right_ankle’.
 
-# Task 2
+# Task 2 
+For this task, the input is live feed from a webcam.In this section, you should get only  the specified landmarks on the body.
+The landmarks are:
+- Nose
+- Left shoulder 
+- Right shoulder
+- Right elbow
+- Left elbow
+- Right knee
+- Left knee 
+- Right ankle
+- Left ankle
 
 |Output pose estimation video|
 |:------------:|
 |![Output video](./images/simulator.gif)|
-|[Youtube Link](https://youtu.be/BZA1jUqT58Q)|
+|[Youtube Link](https://www.youtube.com/watch?v=IKSU_8M1veY)|
+
+
 # Task 3
