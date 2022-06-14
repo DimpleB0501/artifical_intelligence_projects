@@ -13,4 +13,4 @@ Run in terminal <br/>
 # Notes
 I have used [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) implementation to detect 68 landmarks on the face. <br/>
 From those landmarks, I have used mouth landmarks for the implementation. 
-![khan](./images/lip_landmark.jpg)
+![khan](./images/lip_marker.jpg)
