@@ -15,5 +15,5 @@ I have used [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) implementation to 
 From those landmarks, I have used mouth landmarks for the implementation. <br/>
 Run `python3 main.py`
 ![khan](./images/lip_marker.jpg)
-I have empirically setup a threshold by taking an euclidean distance between the 2 **x** markers. <br/>
-If the mouth height is greater than the threshold I have implemented color effect on the lip based on this [code](https://github.com/gautam-girotra/Lip-color-filter).
+I have empirically setup a threshold by taking an euclidean distance between the two **x** markers. <br/>
+If the mouth height is greater than the threshold, I have implemented color effect on the lip based on this [code](https://github.com/gautam-girotra/Lip-color-filter).
