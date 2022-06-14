@@ -9,3 +9,6 @@ In the video below, real-time mouth recognition is implemented. Two red dots app
 ### Running the code
 Run in terminal <br/>
 `python3 main_webcam.py`
+
+# Notes
+I have used [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) implementation to detect 68 landmarks on the face. 
