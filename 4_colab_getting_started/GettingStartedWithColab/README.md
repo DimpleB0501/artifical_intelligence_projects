@@ -12,7 +12,7 @@ This section contains my notes on getting started with google colab and two proj
 # Getting Started with Google Colab
 ### Installing colaboratory 
 * Go to your google drive Click on My Drive &rarr; More &rarr; Connect more apps
-![Install colab](https://github.com/DimpleB0501/SecureNPrivateAIScholarshipCodes/blob/master/GettingStartedWithColab/ReadmeImages/1_AddingCollab.png) 
+![Install colab](./ReadmeImages/1_AddingCollab.png) 
 * Search for Colab in the search bar and CONNECT.
 ![Add colab](https://github.com/DimpleB0501/SecureNPrivateAIScholarshipCodes/blob/master/GettingStartedWithColab/ReadmeImages/12_ColabSearch.png) 
 * Now you can find Colaboratory in your apps.
