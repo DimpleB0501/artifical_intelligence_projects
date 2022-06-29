@@ -14,9 +14,9 @@ This section contains my notes on getting started with google colab and two proj
 * Go to your google drive Click on My Drive &rarr; More &rarr; Connect more apps
 ![Install colab](./ReadmeImages/1_AddingCollab.png) 
 * Search for Colab in the search bar and CONNECT.
-![Add colab](https://github.com/DimpleB0501/SecureNPrivateAIScholarshipCodes/blob/master/GettingStartedWithColab/ReadmeImages/12_ColabSearch.png) 
+![Add colab](./ReadmeImages/12_ColabSearch.png) 
 * Now you can find Colaboratory in your apps.
-![Find colab in drive](https://github.com/DimpleB0501/SecureNPrivateAIScholarshipCodes/blob/master/GettingStartedWithColab/ReadmeImages/2_colaboratoryInDrive.png) 
+![Find colab in drive](./ReadmeImages/2_colaboratoryInDrive.png) 
 * And like normal drive applications by clicking on **NEW** &rarr; **More** &rarr; **Colaboratory** you can start a new project or open an existing project by 
 ![Start a colab project](https://github.com/DimpleB0501/SecureNPrivateAIScholarshipCodes/blob/master/GettingStartedWithColab/ReadmeImages/13_ExistingProject.png)
 
